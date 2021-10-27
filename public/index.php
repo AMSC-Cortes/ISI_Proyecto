@@ -1,4 +1,5 @@
 <?php
+// ALo
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
@@ -35,7 +36,7 @@ require __DIR__.'/../vendor/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
-| Run The Application
+| Run The Application     //// Hey su pude entrar todo bien
 |--------------------------------------------------------------------------
 |
 | Once we have the application, we can handle the incoming request using
