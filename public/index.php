@@ -36,7 +36,7 @@ require __DIR__.'/../vendor/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
-| Run The Application     //// Hey su pude entrar todo bien
+| Run The Application     //// Hey su pude entrar todo bien, Miguel podes leerlo? 
 |--------------------------------------------------------------------------
 |
 | Once we have the application, we can handle the incoming request using
